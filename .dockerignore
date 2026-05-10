@@ -1,0 +1,11 @@
+node_modules
+dist
+.git
+.gitignore
+*.log
+coverage
+.vitest-cache
+test
+.kiro
+README.md
+scripts
